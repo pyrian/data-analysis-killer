@@ -17,8 +17,8 @@
 Seq.|날짜|내용|발표자|Open Session
 ---|---|---|---|---
 1|2015/11/02|Chapter 1. 시작하기 전에|공동| Why IPython notebook?(박성진)
-2|2015/11/09|부록. Python 기본문법 실습|박성진|
-3|2015/11/09|Chapter 2. 사례 소개|박진영|
+2|2015/11/09|Chapter 2. 사례 소개|박진영|
+3|2015/11/09|부록. Python 기본문법 실습|박성진|
 4|2015/11/16|Chapter 3. IPython 소개|손형관|Dev Platform 진행되는 Microservice(김상현)
 5|2015/11/23|Chapter 4. Numpy 기본 : 배열과 백터 계산 ||
 6|2015/11/30|Chapter 5. pandas 시작하기||
