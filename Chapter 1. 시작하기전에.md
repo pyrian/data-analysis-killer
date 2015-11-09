@@ -62,3 +62,4 @@ $([IPython.events]).on("notebook_loaded.Notebook", function () {
 });
 ```
 $(ipython locate profile)/static/custom/custom.js.
+The value is in milliseconds.
