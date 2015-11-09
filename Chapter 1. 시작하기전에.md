@@ -55,4 +55,10 @@ window에서 설치 시는 path 설정 필요
  - .bash_profile : python 경로 바꾸고. anaconda --> python3
  - 가상환경 제공, virtualenv , virtualwrapper
 
-
+## 4. ipython auto save time setting
+```
+$([IPython.events]).on("notebook_loaded.Notebook", function () {
+  IPython.notebook.set_autosave_interval(0);
+});
+```
+$(ipython locate profile)/static/custom/custom.js.
