@@ -39,8 +39,8 @@ Python 및 데이터 분석에 필요한 환경 설정
   # git clone https://github.com/pyrian/data-analysis-killer
 
   <!-- git proxy 설정 -->
-  # git config --global http.proxy 70.10.15.10:8080
-  # git config --global https.proxy 70.10.15.10:8080
+  # git config --global http.proxy [ip]:[port]
+  # git config --global https.proxy [ip]:[port]
   ```
 
 ## [참조]
