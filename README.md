@@ -28,4 +28,11 @@ Seq.|날짜|내용|발표자|Open Session
 10|2015/12/28|Chapter 9. 데이터 수집과 그룹 연산||
 11|2016/01/04|Chapter 10. 시계열||
 12|2016/01/11|Chapter 11. 금융, 경제 데이터 애플리케이션||
-13|2016/01/18|Chapter 12. 고급 NumPy||
+
+## Learning Python for Data Analysis and Visualization(http://www.udemy.com)
+seq.|날짜|Chapter|Details
+---|---|---|---
+13|2016/03/07|Intro to Pandas|20. Data Alignment  21. Rank and Sort 22. Summary Statistics
+14|2016/03/21|Intro to Pandas|23. Missing Data  24. Index hierarchy
+15|2016/03/28|Working with Data:Part1|25. Reading and Writing Text Files 26. JSON with Python  27. HTML with Python  28. Microsoft Excel files with Python       
+16|2016/04/04|Working with Data:Part2|29.Merge 30.Merge on Index
