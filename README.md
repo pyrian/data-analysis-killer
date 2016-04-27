@@ -37,3 +37,4 @@ seq.|날짜|Chapter|Details
 15|2016/03/28|Working with Data:Part1|25. Reading and Writing Text Files 26. JSON with Python  27. HTML with Python  28. Microsoft Excel files with Python       
 16|2016/04/04|Working with Data:Part2|29.Merge 30.Merge on Index
 17|2016/04/18|Working with Data:Part2|31.Concatenate 32.Combining DataFrame
+18|2016/04/25|Working with Data:Part2|33.Reshaping 34.Pivoting 35.Duplicates In dataFrames 36.Mapping
