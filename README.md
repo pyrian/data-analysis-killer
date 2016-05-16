@@ -38,3 +38,6 @@ seq.|날짜|Chapter|Details
 16|2016/04/04|Working with Data:Part2|29.Merge 30.Merge on Index
 17|2016/04/18|Working with Data:Part2|31.Concatenate 32.Combining DataFrame
 18|2016/04/25|Working with Data:Part2|33.Reshaping 34.Pivoting 35.Duplicates In dataFrames 36.Mapping
+19|2016/05/09|Working with Data:Part2|37.Replace 38.Rename Index 39.Binning 40.Outliers
+20|2016/05/16|Working with Data:Part2|41.Permutation
+              Working with Data:Part3|42.GroupBy On DataFrames
